@@ -1,0 +1,12 @@
+                            -- CATEGORIES --
+ACES, DEUCES, THREES, FOURS, FIVES, SIXES: Add up each of the die that rolled 
+                                        each of the individual numbers. (1-6)
+CHOICE: Any combination of any numbers.
+FOUR OF A KIND: Four numbers that are the same.
+FULL HOUSE: Three die of 1 number and two die of another number
+SMALL STRAIGHT (S. STRAIGHT): Four numbers in ascending order.
+LARGE STRAIGHT (L. STRAIGHT): Five numbers in ascending order.
+YACHT: All dice have the same value.
+
+SUBTOTAL BONUS: If you get a subtotal score of 61 in the first six categories you
+            will get a bonus 35 points added to your score at the end of the game!
